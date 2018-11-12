@@ -1,0 +1,5 @@
+export const SEARCH_TERM = "SEARCH_TERM";
+
+export const RENDER_EMPLOYEES = "RENDER_EMPLOYEES";
+
+export const SELECT_EMPLOYEE = "SELECT_EMPLOYEE";
